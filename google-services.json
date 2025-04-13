@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806338236275",
+    "project_id": "ai-interior-d5b67",
+    "storage_bucket": "ai-interior-d5b67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806338236275:android:a3608fa4be12e01727ff06",
+        "android_client_info": {
+          "package_name": "com.example.aiinterior"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBukwYuYjcHsLu14WWyptXPODUOl7xjslw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
